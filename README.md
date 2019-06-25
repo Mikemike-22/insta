@@ -5,11 +5,12 @@ This is an application that allows users to poat their pictures, comment, like a
 Michael Kipkorir Cheruiyot
 
 ## Behaviour Driven Development(BDD)
-Input	Output
-When you land on the page	You will have to first register then login
-at the navbar there is an icon for creating a profile	create your own profile and post it
-there is a button for updloading images	you can upload any image you want to
-when you upload an image	you can like and comment on it and the comments appear on the comments page
+| BEHAVIOUR 	| OUTPUT 	|
+|-------------------------	|----------------------------------------------------------------------	|
+| User loads welcome page 	| User will register the login 	|
+| Enter edit profile 	| User will create profile 	|
+| Click upload picture 	| User will be taken to a page where they are able to upload a picture 	|
+| On upploading an image 	| Image will be displayed and other users can like and comment on it 	|
 ## Project Setup instructions
 Use the following commands to use this project.
 
