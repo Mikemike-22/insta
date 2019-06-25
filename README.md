@@ -3,7 +3,6 @@ This is an application that allows users to poat their pictures, comment, like a
 
 ## Author
 Michael Kipkorir Cheruiyot
-
 ## Behaviour Driven Development(BDD)
 | BEHAVIOUR 	| OUTPUT 	|
 |-------------------------	|----------------------------------------------------------------------	|
@@ -31,7 +30,7 @@ The different technologies that were used to develop this program include:
 3. HTML
 4. CSS
 5. Postgresql
-6. MDBootstrap
+6. MD Bootstrap
 7. Django Framework
 
 ## Link to live site
